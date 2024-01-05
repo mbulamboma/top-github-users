@@ -1695,8 +1695,8 @@ There are `642 users`  in Congo. You need at least `0 followers` to be on this l
 			</a><br/>
 			Mbula mboma Jean gilbert
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Orange RDC</td>
+		<td>#mbulamboma</td>
 		<td>D.R congo, kinshasa</td>
 		<td>87</td>
 		<td>87</td>
